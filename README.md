@@ -1,1 +1,3 @@
-Darlean is a library suite for distributed, concurrent programming. It provides the building blocks for writing scalable monoliths.
+#.guthub
+
+Special repository that contains the readme for the darlean-io project on github.
