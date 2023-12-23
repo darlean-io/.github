@@ -14,11 +14,11 @@ One standout feature is its comprehensive set of scalable primitives — storage
 ## Language interoperability
 Darlean simplifies the integration of multiple programming languages within a single application. This is particularly valuable when working with polyglot teams or when leveraging different languages for specific components of a project.
 
-# Concurrent programming
+## Concurrent programming
 Darlean provides tools and abstractions for handling concurrency, making it easier to write applications that efficiently execute multiple tasks or processes concurrently without the risk of race conditions or out-of-order messaging issues.
 
-# Reduced provider dependency
+## Reduced provider dependency
 By minimizing dependencies on specific service providers or infrastructure, Darlean enhances flexibility and portability. Developers can build applications that are less tied to particular cloud platforms or vendors, reducing vendor lock-in and facilitating easier migration.
 
-# Open source
-It is our passion to bring the paradigm of actor-oriented programming to a wide audience, because we believe that software development and deployment can — and should — be simple, even for complex, scalable solutions. That is why we provide Darlean as an open source library.
+## Open source
+It is our passion to bring the paradigm of actor-oriented programming to a wide audience, because we believe that software development and deployment can — and should — be simple, even for complex, scalable solutions. That is why we provide Darlean under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
