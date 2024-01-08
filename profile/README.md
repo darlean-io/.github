@@ -4,7 +4,7 @@ engineers can focus on the actual domain logic.
 
 Darlean is created to solve the [microservice premium](https://martinfowler.com/bliki/MicroservicePremium.html). 
 Instead of having to start a project as a complex (and expensive) 
-microservice project on forehand because it may grow, or to start a project as a simple monolith at the risk of having to perform an expensive
+microservice project on forehand because it may grow in the future, or to start a project as a simple monolith at the risk of having to perform an expensive
 rewrite when scalability or availability actually become an issue, Darlean makes it possible to start simple and to scale out when necessary with
 zero or minimal changes to your application.
 
