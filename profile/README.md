@@ -9,7 +9,7 @@ rewrite when scalability or availability actually become an issue, Darlean makes
 zero or minimal changes to your application.
 
 The library provides:
-* [Virtual actor](https://darlean.io/the-virtual-actor-model/) primitives that are well integrated with the supported programming languages (currently TS/JS and Go).
+* [Virtual actor](https://darlean.io/the-virtual-actor-model/) primitives that are well integrated with the supported programming languages (currently [TS/JS](https://github.com/darlean-io/darlean.ts) and [Go](https://github.com/darlean-io/darlean.go)).
 * An [integrated high-performance message bus](https://darlean.io/documentation/configuration-options/#messaging-options) for inter-process communication (an external NATS message bus can also be configured).
 * Integrated [scalable persistence](https://darlean.io/documentation/persistence/) (extendable architecture; external persistence providers can be used as well)
 * Integrated [scalable indexed tables](https://darlean.io/documentation/tables/) (extendable architecture; external table services can be used as well)
