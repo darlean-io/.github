@@ -1,4 +1,4 @@
-[Darlean](https://darlean.io) is an open source, cross-language library for creating distributed backend applications. It eliminates much of the
+[Darlean](https://darlean.io) is an open source, cross-language library for creating regular and distributed backend applications. It eliminates much of the
 complexity that comes with distributed scalable computing (like inter process comunnication, scalability, concurrency, deployment and persistence) so that
 engineers can focus on the actual domain logic.
 
